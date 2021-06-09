@@ -1,1 +1,0 @@
-# yaml-lint-jiafan
